@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atergeouth.github.io/sitemap.html.gz
+Sitemap: https://atergeouth.github.io/app/sitemap.html.gz
+Sitemap: https://atergeouth.github.io/assets/sitemap.html.gz
+Sitemap: https://atergeouth.github.io/css/sitemap.html.gz
+Sitemap: https://atergeouth.github.io/includes/sitemap.html.gz
+Sitemap: https://atergeouth.github.io/item/sitemap.html.gz
+Sitemap: https://atergeouth.github.io/src/sitemap.html.gz
